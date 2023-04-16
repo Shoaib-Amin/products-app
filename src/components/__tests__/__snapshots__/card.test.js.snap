@@ -1,0 +1,39 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`it render the card correctly 1`] = `
+<div
+  className="product_card_container"
+>
+  <div
+    className="product_name_container"
+  >
+    <div>
+      <p
+        className="product_name"
+      >
+        product_5
+        <span
+          style={
+            Object {
+              "fontWeight": 400,
+              "marginLeft": 30,
+            }
+          }
+        >
+          $50
+        </span>
+      </p>
+    </div>
+    <p
+      className="date_style"
+    >
+      29-02-2023
+    </p>
+  </div>
+  <p
+    className="product_description"
+  >
+    description for product_5
+  </p>
+</div>
+`;
